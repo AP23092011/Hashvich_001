@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.vern {
+    display: flex;
+    justify-content: center;
+}
+
+.a2 {
+    color: grey;
+    background: #ccc;
+    width: 20%;
+    padding: 0px 10px 5px 10px;
+    text-align: center;
+}
+
+.a2 h2 {
+    color: white;
+}
+
+.a2 i {
+    color: white;
+}
+
+.a22 {
+    background-color: rgb(0, 11, 66);
+    color: rgb(255, 255, 255);
+    width: 20%;
+    padding: 0px 10px 5px 10px;
+    text-align: center;
+}
+
+.vip {
+    display: flex;
+    align-items: center;
+}
+
+.vip i {
+    margin: 0px 15px;
+}
+
+.a1 {
+    width: 30%;
+    background: #ccc;
+}
+
+.a1 p {
+    width: 55%;
+    color: white;
+}
+
+.a11 {
+    width: 30%;
+    width: 55%;
+    background: red;
+    color: white;
+    padding: 10px;
+}
+
+.a11 p {
+    color: white;
+}
+
+.a12 {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 15px;
+}
+
+.inputtmec input {
+    padding: 20px 10px;
+    width: 63%;
+}
+
+.inputtmec {
+    display: flex;
+    justify-content: center;
+}
+
+.ekamth {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.cocialv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.droshman {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.maqurmn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.ekamth input {
+    width: 36%;
+    padding: 17px 10px;
+}
+
+.cocialv input {
+    width: 36%;
+    padding: 17px 10px;
+}
+
+.droshman input {
+    width: 36%;
+    padding: 17px 10px;
+}
+
+.maqurmn input {
+    width: 36%;
+    padding: 17px 10px;
+}
+
+.inpmec1 {
+    padding: 0px auto;
+}
+
+.okk {
+    display: flex;
+    justify-content: center;
+}
+
+.okk h2 {
+    background: red;
+    padding: 10px;
+    color: white;
+    font-weight: 200;
+    cursor: pointer;
+}
+
+.okk h2:hover {
+    background: #ccc;
+    color: black;
+}
